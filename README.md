@@ -1,2 +1,2 @@
-# vscode-plugin-bal
-Sample vscode plugin for ballerina
+# LSP tutoral
+A practical gudide for implementing a Language Server and a LS Client.
